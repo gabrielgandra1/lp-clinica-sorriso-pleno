@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gabrielgandra1.github.io/lp-clinica-sorriso-pleno/sitemap.xml
